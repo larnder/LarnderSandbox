@@ -3,3 +3,4 @@ then make changes
 commit to "push origin"
 have a 'pull request' where you can have someone check your work before going up
 then we can merge changes
+https://www.youtube.com/watch?v=oFYyTZwMyAg 
