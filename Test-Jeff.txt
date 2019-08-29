@@ -1,0 +1,7 @@
+idea is to make a branch
+then make changes
+fetch any changes others made first
+commit to "push origin"
+create a 'pull request' where you can have someone check your work before going up
+then we can merge changes
+https://www.youtube.com/watch?v=oFYyTZwMyAg 
