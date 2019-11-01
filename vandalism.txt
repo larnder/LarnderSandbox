@@ -1,0 +1,9 @@
+"""
+We love vandalism and breaking things.
+
+Physics doesn't even work.
+
+We never landed on the moon.
+"""
+
+    - Isaac
