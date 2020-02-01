@@ -12,7 +12,7 @@ Hinrichsen, P. et C.I. Larnder, \[2018\]: *Combined viscous and dry friction dam
 
 ## Conferences
 
-Larnder, C.I. \[2020\] : *Enseigner les sciences dans un cadre d’apprentissage automatique. * Symposium "L’intelligence artificielle en éducation: avantages, défis et usages" du 7e Colloque international en éducation. Montreal, Quebec. [[abstract](published/2020 05 IA en Education.pdf )]
+Larnder, C.I. \[2020\] : *Enseigner les sciences dans un cadre d’apprentissage automatique. * Symposium "L’intelligence artificielle en éducation: avantages, défis et usages" du 7e Colloque international en éducation. Montreal, Quebec. [[abstract](published/2020%2005%20IA%20en%20Education.pdf )]
 
 Larnder, C.I. \[2019\] : *Accelerometry-based inference of constrained motions.* Physics and AI workshop, McGill.[ [ abstract ](published/2019%2005%20PhysicsAI%20abstract.pdf) ] [[poster](published/2019%2005%20PhysicsAI%20poster.pdf) ] [[conference booklet](published/2019%2005%20PhysicsAI%20booklet.pdf)] 
 
