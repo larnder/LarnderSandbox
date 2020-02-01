@@ -1,22 +1,35 @@
 # Inertial Sensing Lab - publications
 ## Peer-reviewed journals
+Larnder, C.I., \[2020\]: *A purely geometrical method of locating a smartphone accelerometer.* The Physics Teacher **58**, 52. [ [DOI](https://doi.org/10.1119/1.5141974) ] [ [PDF](published/2020%2001%20TPT%20PurelyGeometric.pdf) ] [ [arxiv preprint](https://arxiv.org/abs/1903.11516) ]
+
 Larnder, C.I., \[2019\]: *Using smartphone portrait-landscape transitions to teach inclined-plane physics.* The Physics Teacher (submitted). [ [PDF](published/2018%2009%20SmartphoneTilt.pdf) ]
 
 Larnder, C.I., \[2019\]: *Acceleration discontinuities in dry-friction oscillations.* American Journal of Physics **87**, 784. [ [DOI](https://doi-org/10.1119/1.5123455) ] [ [PDF](published/2019%2008%20AJP%20Discontinuities.pdf) ]
-
-Larnder, C.I., \[2020\]: *A purely geometrical method of locating a smartphone accelerometer.* The Physics Teacher **58**, 52. [ [DOI](https://doi.org/10.1119/1.5141974) ] [ [PDF](published/2020%2001%20TPT%20PurelyGeometric.pdf) ] [ [arxiv preprint](https://arxiv.org/abs/1903.11516) ]
 
 Larnder, C.I. et B. Larade, \[2018\]: *On the determination of accelerometer sensor positions within host devices.* American Journal of Physics **87**, 130. [ [DOI](https://doi-org/10.1119/1.5082536) ] [ [PDF](published/2019%2003%20AJP%20OnTheDetermination.pdf) ]  [ [arxiv preprint](https://arxiv.org/abs/1903.10284) ]
 
 Hinrichsen, P. et C.I. Larnder, \[2018\]: *Combined viscous and dry friction damping of oscillatory motion.* American Journal of Physics **86**, 577. [ [DOI](https://doi-org/10.1119/1.5034345) ] [ [PDF](published/2018%2008%20AJP%20CombinedViscous.pdf) ]
 
+
 ## Conferences
 
-Larnder, C.I. \[2020\] : *Enseigner les sciences dans un cadre d’apprentissage automatique.* Symposium "L’intelligence artificielle en éducation: avantages, défis et usages" du 7e Colloque international en éducation. Montreal, Quebec. [[abstract](published/2020%2005%20IA%20en%20Education.pdf )]
+Larnder, C.I. \[2020\] : *Enseigner les sciences dans un cadre d’apprentissage automatique.* 
+Symposium "L’intelligence artificielle en éducation: avantages, défis et usages" 
+du 7e Colloque international en éducation. Montreal, Quebec. 
+[[abstract](published/2020%2005%20IA%20en%20Education.pdf )]
 
-Larnder, C.I. \[2019\] : *Accelerometry-based inference of constrained motions.* Physics and AI workshop, McGill.[ [ abstract ](published/2019%2005%20PhysicsAI%20abstract.pdf) ] [[poster](published/2019%2005%20PhysicsAI%20poster.pdf) ] [[conference booklet](published/2019%2005%20PhysicsAI%20booklet.pdf)] 
+Larnder, C.I. \[2019\] : *Accelerometry-based inference of constrained motions.* 
+Physics and AI workshop, McGill.
+[[ abstract ](published/2019%2005%20PhysicsAI%20abstract.pdf) ] 
+[[poster](published/2019%2005%20PhysicsAI%20poster.pdf) ] 
+[[conference booklet](published/2019%2005%20PhysicsAI%20booklet.pdf)] 
 
-Larnder, C.I. and E. Portelance \[2019\] : *La fabrication additive distribuée au service de l’éducation scientifique: l’étude de cas des laboratoires de physique basés sur l’utilisation des téléphones intelligents.* Colloque 603 « Enjeux globaux et locaux de l’innovation technologique ET sociale : réalités et potentiels des Living Labs, Fab Labs et labos citoyens » du congrès annuel de l’Association francophone pour le savoir (ACFAS). Ottawa, Ontario. [ [abstract and programme](https://www.acfas.ca/evenements/congres/programme/87/600/603/c?ancre=14097) ]
+Larnder, C.I. and E. Portelance \[2019\] : *La fabrication additive distribuée au service de l’éducation scientifique: 
+l’étude de cas des laboratoires de physique basés sur l’utilisation des téléphones intelligents.* 
+Colloque 603 « Enjeux globaux et locaux de l’innovation technologique ET sociale : 
+réalités et potentiels des Living Labs, Fab Labs et labos citoyens » 
+du congrès annuel de l’Association francophone pour le savoir (ACFAS). Ottawa, Ontario. 
+[ [abstract and programme](https://www.acfas.ca/evenements/congres/programme/87/600/603/c?ancre=14097) ]
 
 Larnder, C.I. \[2018\]: *Activités de physique avec accéléromètres mobiles.* Annual conference of the Association pour l’Enseignement de la Science et Technologie du Québec (AESTQ). Sorel, Québec.
 
