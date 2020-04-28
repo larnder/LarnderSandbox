@@ -1,5 +1,6 @@
 # Inertial Sensing Lab - publications
 ## Peer-reviewed journals
+
 Larnder, C.I., \[2020\]: *A purely geometrical method of locating a smartphone accelerometer.* The Physics Teacher **58**, 52. [ [DOI](https://doi.org/10.1119/1.5141974) ] [ [PDF](published/2020%2001%20TPT%20PurelyGeometric.pdf) ] [ [arxiv preprint](https://arxiv.org/abs/1903.11516) ]
 
 Larnder, C.I., \[2019\]: *Using smartphone portrait-landscape transitions to teach inclined-plane physics.* The Physics Teacher (submitted). [ [PDF](published/2018%2009%20SmartphoneTilt.pdf) ]
@@ -13,10 +14,10 @@ Hinrichsen, P. et C.I. Larnder, \[2018\]: *Combined viscous and dry friction dam
 
 ## Conferences
 
-Larnder, C.I. \[2020\] : *Enseigner les sciences dans un cadre d’apprentissage automatique.* 
+Larnder, C.I. \[2020\] : *Teaching science using machine-learning frameworks* 
 Symposium "L’intelligence artificielle en éducation: avantages, défis et usages" 
-du 7e Colloque international en éducation. Montreal, Quebec. 
-[[abstract](published/2020%2005%20IA%20en%20Education.pdf )]
+of the 7th International Conference in Education . Montreal, Quebec. 
+[[abstract-published](https://colloque2020.crifpe.ca/fr/papers/details/704)] [[abstract-english](published/2020%2005%20AI%20in%20Education.pdf )]
 
 Larnder, C.I. \[2019\] : *Accelerometry-based inference of constrained motions.* 
 Physics and AI workshop, McGill.
