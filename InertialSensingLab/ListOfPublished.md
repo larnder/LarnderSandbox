@@ -1,6 +1,12 @@
 # Inertial Sensing Lab - publications
 ## Peer-reviewed journals
 
+Larnder, C.I., M. Livingstone, F. Nebia, S. Huang \[2020]\: *Physics, smartphones and 3D-print technology :
+a digital-transition case study in science education* International Journal of Technologies in Higher Education (to appear)
+[ [abstract](published/2020%2005%20DigitalTransitionAbstract.pdf) ]
+[ [PDF preprint](published/2020%2005%20DigitalTransition.pdf) ]
+
+
 Larnder, C.I., \[2020\]: *A purely geometrical method of locating a smartphone accelerometer.* The Physics Teacher **58**, 52. [ [DOI](https://doi.org/10.1119/1.5141974) ] [ [PDF](published/2020%2001%20TPT%20PurelyGeometric.pdf) ] [ [arxiv preprint](https://arxiv.org/abs/1903.11516) ]
 
 Larnder, C.I., \[2019\]: *Using smartphone portrait-landscape transitions to teach inclined-plane physics.* The Physics Teacher (submitted). [ [PDF](published/2018%2009%20SmartphoneTilt.pdf) ]
